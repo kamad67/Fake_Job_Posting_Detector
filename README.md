@@ -2,6 +2,10 @@
 
 # Fake Job Detector
 
+Hosted Website URL
+
+https://fake-job-posting-detector.onrender.com/
+
 ML-powered web app to detect fake job postings using Flask API + React frontend.
 
 ---
